@@ -110,7 +110,7 @@ function UncontrolledForm() {
 
 export default UncontrolledForm;
 ```
-## Шаг 3. Подключение в App.jsx
+## Шаг 3. Подключение в ```App.jsx```
 Обновим ```src/App.jsx```, чтобы вывести обе формы:
 ```jsx
 import ControlledForm from './components/ControlledForm';
